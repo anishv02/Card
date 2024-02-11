@@ -1,0 +1,122 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f8f8;
+}
+
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.welcome {
+  display: block;
+}
+
+.photo-container {
+  display: none;
+}
+
+.hidden {
+  display: none;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.quote {
+  font-style: italic;
+  color: #666;
+}
+
+/* Add some pink shades */
+.container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.welcome h1 {
+  color: #e91e63; /* Pink color */
+}
+
+button {
+  background-color: #e91e63; /* Pink color */
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #d81b60; /* Darker pink on hover */
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.welcome {
+  display: block;
+}
+
+.photo-container {
+  display: none;
+}
+
+.hidden {
+  display: none;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.quote {
+  font-style: italic;
+  color: black; /* White text for quotes */
+}
+
+/* Fancy background */
+body {
+  background: linear-gradient(
+    120deg,
+    #f6d365,
+    #fda085
+  ); /* Gradient with pink and orange */
+}
+
+button {
+  background-color: #e91e63; /* Pink color */
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin: 0 10px;
+}
+
+button:hover {
+  background-color: #d81b60; /* Darker pink on hover */
+}
